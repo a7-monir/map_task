@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "27655861903",
+    "firebase_url": "https://task-map10-default-rtdb.firebaseio.com",
+    "project_id": "task-map10",
+    "storage_bucket": "task-map10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27655861903:android:31559de80c92b52026a2fa",
+        "android_client_info": {
+          "package_name": "com.example.map"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqd4d8n4t8HOMger-rcBZqw_ctOGNBXys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27655861903:android:1550c9d420598b7426a2fa",
+        "android_client_info": {
+          "package_name": "com.example.map2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqd4d8n4t8HOMger-rcBZqw_ctOGNBXys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
